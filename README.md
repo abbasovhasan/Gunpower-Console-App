@@ -31,18 +31,6 @@ This project is a simple simulation of different gun models with manual and auto
 
 - .NET Framework
 
-### How to Run
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/GunPowerSimulation.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd GunPowerSimulation
-    ```
-3. Build and run the project using your preferred .NET development environment.
-
 ### License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
