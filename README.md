@@ -31,10 +31,6 @@ This project is a simple simulation of different gun models with manual and auto
 
 - .NET Framework
 
-### License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ### Contributions
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
