@@ -1,0 +1,14 @@
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\bin\Debug\net8.0\GunPower.exe
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\bin\Debug\net8.0\GunPower.deps.json
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\bin\Debug\net8.0\GunPower.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\bin\Debug\net8.0\GunPower.dll
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\bin\Debug\net8.0\GunPower.pdb
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\GunPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\GunPower.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\GunPower.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\GunPower.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\GunPower.dll
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\refint\GunPower.dll
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\GunPower.pdb
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\GunPower.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\C#\GunPower\GunPower\obj\Debug\net8.0\ref\GunPower.dll

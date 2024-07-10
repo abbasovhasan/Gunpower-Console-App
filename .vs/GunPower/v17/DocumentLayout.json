@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\GunPower\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF22417-6FF5-47D6-BC65-D8E0F1AB760D}|GunPower\\GunPower.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\gunpower\\gunpower\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF22417-6FF5-47D6-BC65-D8E0F1AB760D}|GunPower\\GunPower.csproj|solutionrelative:gunpower\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF22417-6FF5-47D6-BC65-D8E0F1AB760D}|GunPower\\GunPower.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\gunpower\\gunpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF22417-6FF5-47D6-BC65-D8E0F1AB760D}|GunPower\\GunPower.csproj|solutionrelative:gunpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\GunPower\\GunPower\\Models.cs",
+              "RelativeDocumentMoniker": "GunPower\\Models.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\GunPower\\GunPower\\Models.cs",
+              "RelativeToolTip": "GunPower\\Models.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAcwJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:17:41.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\GunPower\\GunPower\\Program.cs",
+              "RelativeDocumentMoniker": "GunPower\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\GunPower\\GunPower\\Program.cs",
+              "RelativeToolTip": "GunPower\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:17:24.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
